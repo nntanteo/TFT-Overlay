@@ -8,8 +8,8 @@
     <!--/////////////////-->
 
     <!--Blade of the Ruined King-->
-    <s:String x:Key="BOTRK" xml:space="preserve">Blade of the Ruined King</s:String>
-    <s:String x:Key="BOTRK1" xml:space="preserve">&#10;Wearer is also a Blademaster.</s:String>
+    <s:String x:Key="BOTRK" xml:space="preserve">ItemStrings_LocaleCode.xam</s:String>
+    <s:String x:Key="BOTRK1" xml:space="preserve">&#10;vi.</s:String>
     <!--Darkin-->
     <s:String x:Key="Darkin" xml:space="preserve">Darkin</s:String>
     <s:String x:Key="Darkin1" xml:space="preserve">&#10;Wearer is also a Demon.</s:String>
